@@ -13,4 +13,4 @@
 
 Для именования классов и структуры проекта использована методология БЭМ.
 
-Страница размещена на GitHub Pages по ссылке https://hikotto.github.io/russian-travel/
+Страница размещена на GitHub Pages по ссылке https://hikotto.github.io/mesto/
