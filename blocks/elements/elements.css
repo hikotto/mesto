@@ -1,0 +1,15 @@
+@import url(./__caption/elements__caption.css);
+@import url(./__place/elements__place.css);
+@import url(./__image/elements__image.css);
+@import url(./__title/elements__title.css);
+
+
+
+.elements{
+  margin: 0 auto;
+  max-width: 882px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 282px);
+  grid-gap: 16px;
+  justify-content: center;
+}
