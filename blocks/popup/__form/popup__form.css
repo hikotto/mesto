@@ -1,7 +1,6 @@
 .popup__form{
-  min-height: inherit;
+  max-width: 358px;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
   align-items: center;
 }
